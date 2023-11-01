@@ -1,7 +1,5 @@
 ![DevOps](https://github.com/yadavsubhash0001/yadavsubhash0001/blob/main/Comprehensive%20List%20of%20DevOps%20Tools%202021.png)
-<kbd>
-  <img src="https://github.com/yadavsubhash0001/yadavsubhash0001/blob/main/Comprehensive%20List%20of%20DevOps%20Tools%202021.png">
-</kbd>
+
 
 # My Experience in DevOps
 
