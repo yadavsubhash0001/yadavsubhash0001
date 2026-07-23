@@ -1,19 +1,107 @@
-![DevOps](https://github.com/yadavsubhash0001/yadavsubhash0001/blob/main/Comprehensive%20List%20of%20DevOps%20Tools%202021.png)
+# Hi 👋, I'm Subhash Yadav
 
+### DevOps Engineer | Cloud Engineer | Automation Enthusiast
 
-# My Experience in DevOps
+Passionate about building scalable cloud infrastructure, automating deployments, and creating useful web tools.
 
-####  1. Good hands-on knowledge of Source Code Management (Version Control System) tools like Git, Github, Gitlab, Bitbucket
-####  2. Hands-on knowledge of Configuration management tools like Chef and Ansible.
+---
 
-### Knowledge of major cloud service providers 
+## 🚀 About Me
 
-####  3. AWS (EC2, S3, Route53, VPC, IAM, RDS, Cloud Formation, CloudFront, AWS Autoscaling, AWS
-####    Code deploy, Aws Code pipeline, etc. ), AWS EKS, AWS ECS, Cloudendure
+- 🔭 DevOps Engineer with experience in cloud infrastructure and automation
+- ☁️ Hands-on experience with AWS, Azure, and Google Cloud Platform
+- 🐳 Working with Docker, Kubernetes, ECS & EKS
+- ⚙️ Experienced in CI/CD, Infrastructure as Code, and Configuration Management
+- 💻 Also building free online productivity & developer tools
 
-####  4. Microsoft Azure and GCP 
+---
 
-####  5. Hands-on knowledge of software containerization platforms like Docker and container orchestration tools like Kubernetes and Docker Swarm
-####  6. Hands-on knowledge of different Linux OS Amazon Linux, Ubuntu, Centos, fedora, kali, etc.
-####  7. Jenkins (Continuous integration and Continuous delivery)
-####  8. Good understanding of Infrastructure as Code (Programmable Infrastructure) Tools like Terraform.
+# 🛠️ Skills
+
+## Version Control
+
+- Git
+- GitHub
+- GitLab
+- Bitbucket
+
+## Cloud Platforms
+
+- Amazon Web Services (AWS)
+  - EC2
+  - S3
+  - IAM
+  - Route53
+  - VPC
+  - RDS
+  - CloudFront
+  - Auto Scaling
+  - CloudFormation
+  - CodeDeploy
+  - CodePipeline
+  - ECS
+  - EKS
+  - CloudEndure
+
+- Microsoft Azure
+- Google Cloud Platform (GCP)
+
+## Containers & Orchestration
+
+- Docker
+- Kubernetes
+- Docker Swarm
+
+## Infrastructure as Code
+
+- Terraform
+
+## Configuration Management
+
+- Ansible
+- Chef
+
+## CI/CD
+
+- Jenkins
+- GitHub Actions
+
+## Operating Systems
+
+- Ubuntu
+- Amazon Linux
+- CentOS
+- Fedora
+- Kali Linux
+
+---
+
+# 🚀 Featured Project
+
+## 🌐 ToolAdda
+
+A collection of free online tools built using HTML, CSS & JavaScript.
+
+### Features
+
+- PDF Tools
+- Image Tools
+- QR Code Generator
+- Developer Utilities
+- Calculators
+- Text Tools
+- SEO Tools
+- And many more...
+
+🔗 **Website:** https://tooladda.online
+
+---
+
+# 📫 Connect With Me
+
+- GitHub: https://github.com/yadavsubhash0001
+- Website: https://tooladda.online
+
+---
+
+⭐ If you like my projects, consider giving them a star!
